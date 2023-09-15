@@ -5,7 +5,7 @@
 
         div(class="flex items-center")   
             div(class="hidden md:block md:flex gap-5")
-                nuxt-link.lin(to="https://www.modonexpress.com/") 
+                nuxt-link.lin(to="/") 
                     div(class="flex items-center")
                         div(class="text-xl self-start")
                             IconsHome/
