@@ -1,6 +1,6 @@
 <template lang="pug">
-.container-fluid(class="grid grid-cols-6 gap-14 bg-blue-100 rounded-t-3xl py-3 pr-5")
-    div(class="column col-span-3 mr-16")
+.container-fluid(class="grid md:grid-cols-6 gap-14 bg-blue-100 rounded-t-3xl py-3 pr-5")
+    div(class="column md:col-span-3 mr-16")
         div(class="mb-10")
             h4 تحميل التطبيق
         div(dir="rtl")
@@ -17,7 +17,7 @@
         p 0510617202
         p 0501870603
         p info@modonexpress.com
-    div(dir="rtl" class="column col-span-2")
+    div(dir="rtl" class="column md:col-span-2")
         div(class="mb-6")
             img(src="footer-logo.png")
         div
