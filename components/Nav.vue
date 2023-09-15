@@ -1,7 +1,7 @@
 <template lang="pug">
 .container-fluid(dir="rtl" class="flex pt-5 pb-1 bg-white")           
         div.ml-auto 
-            img(src="footer-logo.png")
+            img(src="footerlogo.png")
 
         div(class="flex items-center")   
             div(class="hidden md:block md:flex gap-5")
