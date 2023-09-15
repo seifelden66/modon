@@ -19,7 +19,7 @@
         p info@modonexpress.com
     div(dir="rtl" class="column md:col-span-2")
         div(class="mb-6")
-            img(src="footerlogo.png")
+            img(src="/footerlogo.png")
         div
             p معًا، نساهم في بناء اقتصاد مزدهر يستند إلى المنتجات المحلية ونعزز الهوية الوطنية والفخر بالمنتج المحلي "صنع في السعودية".
 
